@@ -191,7 +191,7 @@
       const prevBtn = document.querySelector('[data-testid="control-button-skip-back"]');
       if (prevBtn) prevBtn.click();
     }
-  });
+  }, true); // useCapture: true to intercept before Spotify container
 
   // Auto-focus first element after Spotify loads
   setTimeout(() => {
