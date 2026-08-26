@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Spotify TV 10-foot Big Screen interface with automatic ad-muting and TV remote controls.",
   "packageType": "mods",
-  "websiteURL": "https://tv.spotify.com/",
+  "websiteURL": "https://open.spotify.com/",
   "main": "dist/userScript.js",
   "keys": [
     "MediaPlay",
